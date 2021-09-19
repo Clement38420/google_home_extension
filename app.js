@@ -29,7 +29,7 @@ app.post('/', (req, res) => {
               "items": [
                 {
                   "simpleResponse": {
-                    "textToSpeech": "this is a Google Assistant response"
+                    "textToSpeech": "response test"
                   }
                 }
               ]
