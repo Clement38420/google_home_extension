@@ -1,0 +1,24 @@
+{
+  "name": "google_home_extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clement38420/google_home_extension.git"
+  },
+  "author": "c.charbo38@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Clement38420/google_home_extension/issues"
+  },
+  "homepage": "https://github.com/Clement38420/google_home_extension#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
